@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Soham-23107032
-- 👀 I’m interested in ...*Tech
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...>my email<
-
+This account is just made for the Github related things in College 
 
 <!---
 Soham-23107032/Soham-23107032 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
